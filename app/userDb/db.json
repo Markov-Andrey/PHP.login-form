@@ -1,0 +1,10 @@
+[
+  {
+    "login": "andremarkov",
+    "email":"andremarkov@icloud.com",
+    "name":"Andre Markov",
+    "password_hash":"36341cbb9c5a51ba81e855523de49dfd",
+    "salt":"amar",
+    "created_at":"2023-01-01 01:01:01"
+  }
+]

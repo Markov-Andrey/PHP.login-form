@@ -1,0 +1,54 @@
+body{
+  background-color: rgb(255, 242, 205);
+}
+
+h1{
+  text-shadow: 1px 1px 2px gray;
+}
+
+h2{
+  text-shadow: 1px 1px 2px gray;
+  text-decoration: underline gray 3px;
+}
+
+a, button{
+  margin: 5px;
+  padding: 7px 15px;
+  border: solid 1px black;
+  border-radius: 5px;
+  background-color: #b3ff4f;
+  text-decoration: none;
+  color: black;
+}
+
+a:hover, button:hover{
+  background-color: #fff12b;
+}
+
+.error{
+  color: red;
+}
+
+input {
+  padding: 5px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+.articleBtn{
+  display: block;
+  margin: 20px 30% ;
+  background-color: #eead63;
+}
+
+.articleBtn:hover{
+  background-color: #f14646;
+}
+
+#Logout{
+  background-color: gray;
+}
+
+#Logout:hover{
+  background-color: white;
+}

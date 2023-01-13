@@ -1,0 +1,1 @@
+<a href="/articles1" class="articleBtn" title="Dummy article">Article</a>
